@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloAndroid0</string>
+    <string name="welcome">Welcome!</string>
+    <string name="further">Next.</string>
+    <string name="hello">Hello World!</string>
+    <string name="finished">Done.</string>
+    <string name="age" >Alter</string>
+    <string name="askName">Please enter your Name</string>
+    <string name="askAge">Please enter your birth year!</string>
+</resources>
